@@ -15,23 +15,28 @@ body {
 }
 
 hr {
-    color: #a96d4b; /* bronze */
+    background-color: #fff;
+    height: 2px;
 }
 
 .title {
-    background-color: #7a7257; /* gray-brown */
+    /*background-color: #7a7257;*/ /* gray-brown */
+    /*background-color: #a96d4b; /* bronze */
+    background-image: linear-gradient(45deg, #a96d4b, #d97);
     color: #fff;
 }
 
 
 .title h1 {
     color: #fff; /* white */
-    font-size: 35pt; /* 58pt in ppt */
+    font-size: 45pt; /* 58pt in ppt */
 }
 
 .title h2 {
-    color: #d6d2c4; /* natural white */
-    font-size: 18pt; /* 26pt in ppt */
+    /*color: #d6d2c4;*/ /* natural white */
+    color: #fff; /* white */
+    font-size: 24pt; /* 26pt in ppt */
+    margin: 0;
 }
 
 .title del {
@@ -42,8 +47,6 @@ hr {
 .title h3 {
     color: #fff; /* white */
     font-size: 18pt; 
-    margin: 10px;
-    padding-left: 10px;
 }
 
 .title img {
@@ -51,10 +54,6 @@ hr {
     padding: 10px;
 }
 
-
-.title .content {
-    width: 70%;
-}
 
 .footer { 
     color: #7a7257; /* gray-brown */

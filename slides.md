@@ -1,27 +1,21 @@
 
 class: title
 
-.content[
+<br/>
+
+## Ellison    
+## Medical   
+## Institute    
+
+<br/> <br/>
+<br/> <br/>
+<br/> <br/>
+
 # Kashaka
 
 <hr/>
 
-## Joy of ~~Science~~ Math and Music 2025
-## Darren Kessner
-
-<br/> <br/> <br/> <br/>
-<br/> <br/> <br/> <br/>
-<br/>
-
-<img src="ei_icon.png" width="20%"/>  
-
-### <br/> 
-### <br/> 
-### &nbsp;  Ellison Medical Institute   
-
-
-
-]
+### Darren Kessner | Joy of Science 2025
 
 ---
 
@@ -48,7 +42,6 @@ It is made from the gourds of the _Oncoba spinosa_ tree.
 <img src="pix/oncoba.jpg" width="45%"/>
 
 Other names: aslato (Ghana), asalato, patica (Japan)
-
 
 ---
 
@@ -92,7 +85,6 @@ __Counting to 8__
 
 .column[
 
-
 __Counting to 6__
 
 ```
@@ -120,14 +112,5 @@ __Counting to 16__
 
 ]
 ]
-
-
-
-
-
-
-
-
-
 
 
